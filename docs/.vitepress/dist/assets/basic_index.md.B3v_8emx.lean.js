@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,a4 as h}from"./chunks/framework.-7A52eWJ.js";const q=JSON.parse('{"title":"BASIC","description":"","frontmatter":{},"headers":[],"relativePath":"basic/index.md","filePath":"basic/index.md"}'),t={name:"basic/index.md"},i=h("",54),o=[i];function l(n,d,s,c,p,b){return r(),e("div",null,o)}const _=a(t,[["render",l]]);export{q as __pageData,_ as default};
